@@ -39,11 +39,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GelsonNote\\source\\repos\\Store\\Store.Domain\\Store.Domain.csproj",
+      "projectUniqueName": "C:\\git\\Store\\Store.Domain\\Store.Domain.csproj",
       "projectName": "Store.Domain",
-      "projectPath": "C:\\Users\\GelsonNote\\source\\repos\\Store\\Store.Domain\\Store.Domain.csproj",
+      "projectPath": "C:\\git\\Store\\Store.Domain\\Store.Domain.csproj",
       "packagesPath": "C:\\Users\\GelsonNote\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GelsonNote\\source\\repos\\Store\\Store.Domain\\obj\\",
+      "outputPath": "C:\\git\\Store\\Store.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

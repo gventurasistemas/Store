@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GelsonNote\\source\\repos\\Store\\Store.Tests\\Store.Tests.csproj": {}
+    "C:\\git\\Store\\Store.Tests\\Store.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GelsonNote\\source\\repos\\Store\\Store.Domain\\Store.Domain.csproj": {
+    "C:\\git\\Store\\Store.Domain\\Store.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GelsonNote\\source\\repos\\Store\\Store.Domain\\Store.Domain.csproj",
+        "projectUniqueName": "C:\\git\\Store\\Store.Domain\\Store.Domain.csproj",
         "projectName": "Store.Domain",
-        "projectPath": "C:\\Users\\GelsonNote\\source\\repos\\Store\\Store.Domain\\Store.Domain.csproj",
+        "projectPath": "C:\\git\\Store\\Store.Domain\\Store.Domain.csproj",
         "packagesPath": "C:\\Users\\GelsonNote\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GelsonNote\\source\\repos\\Store\\Store.Domain\\obj\\",
+        "outputPath": "C:\\git\\Store\\Store.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\GelsonNote\\source\\repos\\Store\\Store.Tests\\Store.Tests.csproj": {
+    "C:\\git\\Store\\Store.Tests\\Store.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GelsonNote\\source\\repos\\Store\\Store.Tests\\Store.Tests.csproj",
+        "projectUniqueName": "C:\\git\\Store\\Store.Tests\\Store.Tests.csproj",
         "projectName": "Store.Tests",
-        "projectPath": "C:\\Users\\GelsonNote\\source\\repos\\Store\\Store.Tests\\Store.Tests.csproj",
+        "projectPath": "C:\\git\\Store\\Store.Tests\\Store.Tests.csproj",
         "packagesPath": "C:\\Users\\GelsonNote\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GelsonNote\\source\\repos\\Store\\Store.Tests\\obj\\",
+        "outputPath": "C:\\git\\Store\\Store.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -91,8 +91,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\GelsonNote\\source\\repos\\Store\\Store.Domain\\Store.Domain.csproj": {
-                "projectPath": "C:\\Users\\GelsonNote\\source\\repos\\Store\\Store.Domain\\Store.Domain.csproj"
+              "C:\\git\\Store\\Store.Domain\\Store.Domain.csproj": {
+                "projectPath": "C:\\git\\Store\\Store.Domain\\Store.Domain.csproj"
               }
             }
           }
